@@ -1,3 +1,17 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.12
+    jupytext_version: 1.6.0
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
 # Weights&Bias
 
 
@@ -15,3 +29,10 @@ Weights&Bias是一个机器学习平台，可以帮助开发人员分析和调�
 **Sweeps**能够帮助搜索超参数空间以找到性能最好的模型参数参数配置。超参数扫描提供了一种有效的方式来选择表现最好的模型。具体是通过自动搜索超参数值的组合(如学习率、批量大小、隐藏层数、优化器类型)来实现此目的。
 
 **Tables**不仅可以记录、查询和分析表格数据，还可以记录数据模型预测的可视化结果。
+
+
+:::{admonition} Work in progress
+Article building functionality for Jupyter Book is still under design and development.
+This functionality may change over time!
+If you have ideas, suggestions, or would like to help out, please [see the contributing guide](../contribute/intro.md).
+:::
